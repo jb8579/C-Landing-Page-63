@@ -1,0 +1,591 @@
+@media screen and (min-width: 1200px) and (max-width: 1279px) {
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .Ldx430Ri36neg-pyfree-part {
+        gap: 15px;
+    }
+
+    .Ldx430Ri36neg-pyfree-right {
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 6px;
+        grid-row-gap: 20px;
+    }
+
+    .Ldx430Ri36neg-pyfree-rttext p {
+        font-size: 14px;
+    }
+
+    .Ldx430Ri36neg-pyfree-lttext h3 {
+        font-size: 20px;
+        line-height: 46px;
+    }
+
+    .Ldx430Ri36neg-pyfree-lttext p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .Ldx430Ri36neg-pyfree-lttext h2 {
+        font-size: 28px;
+        line-height: 50px;
+    }
+
+    .footer-text p br {
+        display: none;
+    }
+
+    .rainggpopup-area {
+        width: 460px;
+        border-radius: 25px;
+        padding: 25px 30px;
+    }
+
+    .rainggpopup-logo img {
+        height: 40px;
+    }
+
+    .rainggpopup-text h2 {
+        font-size: 40px;
+        line-height: 55px;
+        padding-bottom: 10px;
+    }
+
+    .rainggpopup-text p {
+        font-size: 25px;
+    }
+
+    .closeimg img {
+        width: 45px;
+        height: 45px;
+        margin-right: 0px;
+        margin-bottom: -38px;
+        right: -18px;
+        top: -12px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .Ldx430Ri36neg-wlctext {
+        width: 100%;
+    }
+    .header-logo img {
+        height: 54px;
+    }
+
+    .Ldx430Ri36neg-text h1 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .Ldx430Ri36neg-text p br {
+        display: none;
+    }
+
+    .Ldx430Ri36neg-images-part {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .Ldx430Ri36neg-pyfree-left {
+        width: 100%;
+        margin-bottom: 38px;
+    }
+
+    .Ldx430Ri36neg-pyfree-part {
+        display: block;
+    }
+
+    .Ldx430Ri36neg-pyfree-right {
+        width: 100%;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 30px;
+        padding-top: 0px;
+    }
+
+    .Ldx430Ri36neg-gamemodes-items {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .Ldx430Ri36neg-wlc {
+        padding: 45px 30px;
+        box-sizing: border-box;
+    }
+
+    .Ldx430Ri36neg-rtp h2 {
+        font-size: 35px;
+    }
+
+    .footer-text p br {
+        display: none;
+    }
+
+    .rainggpopup-text img {
+        height: 280px;
+    }
+
+    .rainggpopup-area {
+        width: 460px;
+        border-radius: 25px;
+        padding: 25px 30px;
+    }
+
+    .rainggpopup-logo img {
+        height: 40px;
+    }
+
+    .rainggpopup-text h2 {
+        font-size: 40px;
+        line-height: 55px;
+        padding-bottom: 10px;
+    }
+
+    .rainggpopup-text p {
+        font-size: 25px;
+    }
+
+    .closeimg img {
+        width: 45px;
+        height: 45px;
+        margin-right: 0px;
+        margin-bottom: -38px;
+        right: -18px;
+        top: -12px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .topheader-area {
+        padding: 5px 16px;
+    }
+
+    .topheader-part p {
+        font-size: 10px;
+    }
+
+    .topheader-part p img {
+        width: 16px;
+        height: 16px;
+        display: block;
+        margin-right: 4px;
+    }
+
+    .header-area {
+        padding: 30px 0;
+        padding-bottom: 0px;
+    }
+
+    .header-logo img {
+        height: 34px;
+    }
+
+    .Ldx430Ri36neg-text h1 {
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 40px;
+        padding-bottom: 18px;
+    }
+
+    .Ldx430Ri36neg-text p br {
+        display: none;
+    }
+
+    .Ldx430Ri36neg-text p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+    .Ldx430Ri36neg-text ul {
+        padding-top: 24px;
+    }
+
+    .Ldx430Ri36neg-text ul li {
+        margin: 0 6px;
+    }
+
+    .Ldx430Ri36neg-text ul li a {
+        font-size: 14px;
+        width: auto;
+    }
+
+    .Ldx430Ri36neg-images-part {
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 15px;
+        justify-content: space-around;
+        grid-row-gap: 15px;
+        padding-top: 30px;
+    }
+
+    .Ldx430Ri36neg-images img {
+        max-width: 100%;
+        display: block;
+        margin: auto;
+        height: 95px;
+    }
+
+    .Ldx430Ri36neg-images {
+        height: 165px;
+    }
+
+    .Ldx430Ri36neg-pyfree-part {
+        margin-top: 35px;
+        display: block;
+    }
+
+    .Ldx430Ri36neg-pyfree-left {
+        width: 100%;
+        gap: 8px;
+        padding-top: 25px;
+    }
+
+    .Ldx430Ri36neg-pyfree-right {
+        width: 100%;
+        grid-template-columns: repeat(1, 1fr);
+        grid-column-gap: 30px;
+        grid-row-gap: 15px;
+        padding: 30px 20px;
+        box-sizing: border-box;
+    }
+
+    .Ldx430Ri36neg-pyfree-rttext h4 {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .Ldx430Ri36neg-pyfree-rttext p {
+        font-size: 12px;
+        padding-top: 2px;
+    }
+
+    .Ldx430Ri36neg-pyfree-ltimg {
+        width: 25%;
+    }
+
+    .Ldx430Ri36neg-pyfree-lttext {
+        width: 75%;
+    }
+
+    .container {
+        padding: 0 16px;
+    }
+
+    .Ldx430Ri36neg-pyfree-lttext h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .Ldx430Ri36neg-pyfree-lttext h3 {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .Ldx430Ri36neg-pyfree-lttext p {
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 22px;
+    }
+
+    .Ldx430Ri36neg-gamemodes-part {
+        padding-top: 35px;
+    }
+
+    .Ldx430Ri36neg-gamemodes-hd h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .Ldx430Ri36neg-gamemodes-items {
+        grid-template-columns: repeat(1, 1fr);
+        grid-row-gap: 25px;
+    }
+
+    .Ldx430Ri36neg-wlctext {
+        width: 100%;
+    }
+
+    .Ldx430Ri36neg-wlc {
+        padding: 30px 15px;
+        padding-bottom: 29px;
+        margin-top: 45px;
+        box-sizing: border-box;
+    }
+
+    .Ldx430Ri36neg-wlc h2 br {
+        display: none;
+    }
+
+    .Ldx430Ri36neg-wlc h2 {
+        font-size: 25px;
+        font-weight: 600;
+        line-height: 35px;
+    }
+
+    .Ldx430Ri36neg-wlc h2 span {
+        font-size: 20px;
+    }
+
+    .Ldx430Ri36neg-wlctext p {
+        font-size: 13px;
+        font-weight: 300;
+        text-align: center;
+        line-height: 24px;
+    }
+
+    .Ldx430Ri36neg-wlctext h5 {
+        font-size: 14px;
+        font-weight: bold;
+        line-height: 32px;
+        padding-top: 18px;
+    }
+
+    .Ldx430Ri36neg-rtp h2 br {
+        display: block;
+    }
+
+    .Ldx430Ri36neg-rtp h2 {
+        font-size: 26px;
+        line-height: 45px;
+        padding-bottom: 12px;
+    }
+
+    .Ldx430Ri36neg-rtp a {
+        font-size: 14px;
+        width: 144px;
+        height: 44px;
+        line-height: 44px;
+        margin-top: 10px;
+    }
+
+    .Ldx430Ri36neg-area {
+        padding: 30px 0;
+        padding-bottom: 40px;
+    }
+
+    .footer-logo img {
+        height: 34px;
+    }
+
+    .footer-text p br {
+        display: none;
+    }
+
+    .footer-text p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+    .footer-nav ul li a {
+        font-size: 12px;
+    }
+
+    .footer-nav ul li {
+        padding: 7px 3px;
+    }
+
+    .footer-logo {
+        padding-bottom: 25px;
+    }
+
+    .footer-nav {
+        padding: 18px 0;
+    }
+
+    .footer-copyright p {
+        font-size: 12px;
+    }
+
+    .footer-copyright {
+        padding: 10px 0;
+    }
+
+    .footer-area {
+        padding: 40px 0;
+        padding-bottom: 0px;
+    }
+
+    .raingg-text-part {
+        border-radius: 20px;
+        padding: 35px 20px;
+        padding-bottom: 0px;
+    }
+
+    .raingg-text-heading h2 {
+        font-size: 25px;
+    }
+
+    .raingg-text-heading {
+        padding-bottom: 28px;
+    }
+
+    .raingg-text-item1 h3 {
+        font-size: 16px;
+        padding-bottom: 20px;
+    }
+
+    .raingg-text-item2 h3 {
+        font-size: 16px;
+        padding-bottom: 20px;
+    }
+
+    .raingg-text-item2 ul li span {
+        font-size: 12px;
+        width: 16px;
+    }
+
+    .raingg-text-item1 p {
+        font-size: 12px;
+        line-height: 24px;
+    }
+
+    .raingg-text-item2 ul li p {
+        font-size: 12px;
+        line-height: 24px;
+        padding-left: 18px;
+        margin-top: -19px;
+    }
+
+    .formbox {
+        width: 100%;
+        display: block;
+        margin: auto;
+        border-radius: 10px;
+        padding: 25px 15px;
+    }
+
+    .formheading h2 {
+        font-size: 25px;
+        text-align: left;
+    }
+
+    .formheading {
+        padding-bottom: 25px;
+    }
+
+    .formpart input {
+        font-size: 14px;
+        width: 100%;
+        padding: 14px 18px;
+        border-radius: 8px;
+        margin-bottom: 16px;
+    }
+
+    .formpart input::placeholder {
+        font-size: 14px;
+    }
+
+    .fromitems p {
+        font-size: 15px;
+        padding-bottom: 8px;
+    }
+
+    .checkboxpart {
+        padding-left: 39px;
+        font-size: 14px;
+        line-height: 22px;
+        font-weight: 300;
+    }
+
+    .formpart input[type="submit"] {
+        font-size: 15px;
+    }
+
+    .fromitemor p {
+        font-size: 15px;
+        width: 53px;
+    }
+
+    .frombtns {
+        padding-top: 14px;
+        gap: 15px;
+    }
+
+    .frombtn1 a img {
+        height: 14px;
+        margin-right: 4px;
+    }
+
+    .frombtn1 a {
+        font-size: 10px;
+        font-weight: 500;
+        height: 35px;
+        border-radius: 5px;
+        line-height: 35px;
+    }
+
+    .fromitem3 h6 {
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .fromitem3 h6 a {
+        font-size: 12px;
+    }
+
+    .maincheckbox {
+        padding-bottom: 20px;
+    }
+
+    .fromitem3 {
+        padding-top: 18px;
+    }
+
+    .toggle-password {
+        top: 13px;
+    }
+
+    .toggle-password img {
+        width: 17px;
+        height: 17px;
+    }
+
+    .form-area {
+        padding: 50px 0;
+        padding-top: 40px;
+    }
+
+    .rainggpopup-area {
+        width: 320px;
+        display: block;
+        margin: auto;
+        border-radius: 15px;
+        padding: 30px 16px;
+    }
+
+    .rainggpopup-logo img {
+        height: 36px;
+    }
+
+    .rainggpopup-text h2 {
+        font-size: 30px;
+        line-height: 40px;
+        padding-bottom: 7px;
+    }
+
+    .rainggpopup-text p {
+        font-size: 20px;
+    }
+
+    .rainggpopup-text img {
+        height: 200px;
+    }
+
+    .rainggpopup-text a {
+        font-size: 16px;
+        height: 45px;
+        line-height: 45px;
+    }
+
+    .closeimg img {
+        width: 35px;
+        height: 35px;
+        margin-right: 0px;
+        margin-bottom: -28px;
+        right: -8px;
+        top: -22px;
+    }
+}

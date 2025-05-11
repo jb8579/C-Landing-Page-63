@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="keywords" content="Raingg, rainggonline, registration, sign up, tech lifestyle, modern brand, innovative products">
+		<meta name="description" content="Create your account at Raingg – your destination for stylish, innovative, and high-quality products. Register to explore the future at rainggonline.com.">
+		<meta name="author" content="Raingg Team">
+		<meta name="designer" content="Raingg Web Design Studio">
+		<meta property="og:title" content="Raingg – Register to Unlock Innovative Lifestyle & Smart Products">
+		<meta property="og:description" content="Sign up for Raingg to access stylish and cutting-edge products designed for a smarter lifestyle. Register today!">
+		<meta property="og:image" content="https://rainggonline.com/img/og-image.jpg">
+		<meta property="og:url" content="https://rainggonline.com/register">
+		<meta property="og:type" content="website">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:title" content="Raingg – Register to Unlock Innovative Lifestyle & Smart Products">
+		<meta name="twitter:description" content="Create your account with Raingg for access to premium products that shape the future of modern living.">
+		<meta name="twitter:image" content="https://rainggonline.com/img/twitter-card.jpg">
+		<title>Raingg – Register for Innovative Lifestyle & Smart Products</title>
+		<link rel="icon" href="img/favicon.png" type="image/png" />
+		<link rel="stylesheet" href="style.css" />
+		<link rel="stylesheet" href="css/responsive.css" />
+	</head>
+
+	<body>
+		<header class="header-area">
+			<div class="container">
+				<div class="header-part">
+					<div class="header-logo">
+						<a href="index.html"><img src="img/logo.png" alt="logo" /></a>
+					</div>
+				</div>
+			</div>
+		</header>
+		<section class="form-area">
+			<div class="container">
+				<div class="formbox">
+					<div class="formheading">
+						<h2>Sign Up</h2>
+					</div>
+					<div class="formpart">
+						<form id="registerForm">
+							<div class="fromitems">
+								<p>Username</p>
+								<div class="fromitem">
+								<input type="text" name="name" placeholder="Enter your username" required>
+								</div>
+								<p>Password</p>
+								<div class="password-container">
+								<input type="password" id="passwordInput" placeholder="Enter your password" required>
+								<button type="button" class="toggle-password" onclick="togglePassword('passwordInput', 'eyeIcon1')">
+									<img id="eyeIcon1" src="img/eyeclose.svg" alt="Show Password">
+								</button>
+								</div>
+								<p>Email</p>
+								<div class="fromitem">
+								<input type="email" name="email" placeholder="Enter your email" required>
+								</div>
+							</div>
+							<div class="maincheckbox">
+								<label class="checkboxpart">
+								I am at least 18 years of age, and accept the <span>Terms of Service</span>.
+								<input type="checkbox" required>
+								<span class="checkmark"></span>
+								</label>
+							</div>
+							<div class="fromitem2">
+								<input type="submit" value="Register" id="registerBtn">
+							</div>
+							<div class="fromitemor">
+								<span></span>
+								<p>or</p>
+							</div>
+							<div class="frombtns">
+								<div class="frombtn1">
+								<a href="#"><img src="img/fmicon1.png" alt="icon" /> Sign in with steam</a>
+								</div>
+								<div class="frombtn1">
+								<a href="#"><img src="img/fmicon2.png" alt="icon" />Sign in with google</a>
+								</div>
+							</div>
+							<div class="fromitem3">
+								<h6>Already  have an account? <a href="logIn.html">Login here</a></h6>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</section>
+		<footer class="footer-area">
+			<div class="container">
+				<div class="footer-part">
+					<div class="footer-logo">
+						<a href="index.html">
+							<img src="img/logo.png" alt="Raingg logo" />
+						</a>
+					</div>
+					<div class="footer-text">
+						<p>Rain.gg is the fastest growing platform for CS2 (CS:GO) unboxing, offering users an exciting experience with secure gameplay and a variety of ways to win. Our commitment to fairness, transparency, and customer satisfaction sets us apart in the gaming community.<br><br>
+						Rain.gg is an independent site and is not affiliated, endorsed, or connected to Counter-Strike, Valve LLC, Steam, or any of their subsidiaries or affiliates. All brand names, logos, and trademarks are the property of their respective owners.</p>
+					</div>
+					<div class="footer-nav">
+						<ul>
+							<li><a href="privaccypolicy.html">Privacy Policy</a></li>
+							<li><span>|</span></li>
+							<li><a href="terms&conditions.html">Terms and Conditions</a></li>
+							<li><span>|</span></li>
+							<li><a href="cookiepolicy.html">Cookies Policy</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="footer-copyright">
+				<p>© 2025 rainggonline.com. All rights reserved.</p>
+			</div>
+		</footer>
+		<div id="popupOverlay" class="popup-overlay">
+		<div class="popup-content">
+			<div class="rainggpopup-area">
+			<div class="closeimg">
+				<span class="close-btn" id="closePopupBtn">
+					<img src="img/close.png" alt="close icon" />
+				</span>
+			</div>
+			<div class="rainggpopup-part">
+				<div class="rainggpopup-logo">
+				<a href="#">
+					<img src="img/logo.png" alt="logo" />
+				</a>
+				</div>
+				<div class="rainggpopup-text">
+				<h2>3 Free Cases</h2>
+				<p>+5% Deposit Bonus</p>
+				<img src="img/popupimg1.png" alt="Bonus Image" />
+				<a href="index.html">Continue</a>
+				</div>
+			</div>
+			</div>
+		</div>
+		</div>
+		<script src="js/scripts.js"></script>
+		<script>
+			// Toggle password visibility
+			function togglePassword(inputId, iconId) {
+				const passwordInput = document.getElementById(inputId);
+				const eyeIcon = document.getElementById(iconId);
+				if (passwordInput.type === "password") {
+				passwordInput.type = "text";
+				eyeIcon.src = "img/eye.svg"; // Change to "eyeclose.svg"
+				} else {
+				passwordInput.type = "password";
+				eyeIcon.src = "img/eyeclose.svg"; // Change back to "eye.svg"
+				}
+			}
+
+			// Popup functionality
+			const registerForm = document.getElementById('registerForm');
+			const popupOverlay = document.getElementById("popupOverlay");
+			const closePopupBtn = document.getElementById("closePopupBtn");
+
+			registerForm.addEventListener('submit', function(event) {
+				event.preventDefault(); // Prevent form submission (page reload)
+
+				// Open the popup
+				popupOverlay.style.display = "flex";
+				document.body.style.overflow = "hidden"; // Disable background scrolling
+			});
+
+			// Close the popup and navigate to index.html when the close button is clicked
+			closePopupBtn.addEventListener("click", function() {
+				popupOverlay.style.display = "none";
+				document.body.style.overflow = ""; // Re-enable background scrolling
+				window.location.href = "index.html"; // Redirect to index.html
+			});
+
+			// Close the popup if the user clicks outside the popup
+			window.addEventListener("click", function(event) {
+				if (event.target === popupOverlay) {
+				popupOverlay.style.display = "none";
+				document.body.style.overflow = ""; // Re-enable background scrolling
+				window.location.href = "index.html"; // Redirect to index.html
+				}
+			});
+		</script>
+
+	</body>
+</html>

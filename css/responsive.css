@@ -211,7 +211,7 @@
 
     .Ldx430Ri36neg-text ul li a {
         font-size: 14px;
-        width: auto;
+        width: auto !important;
     }
 
     .Ldx430Ri36neg-images-part {
